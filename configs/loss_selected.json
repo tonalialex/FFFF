@@ -1,0 +1,13 @@
+{
+  "name": "selected_final",
+  "pixel": "charbon",
+  "align": true,
+  "gradient": 0.2,
+  "structure": 0.3,
+  "teacher": 1.0,
+  "alignment_radius": 3,
+  "supervised_margin": 4,
+  "source": "User-specified weights on 2026-10-20: gradient=0.2, structure=0.3, teacher=1.0",
+  "selection_used_test": false,
+  "note": "User-specified weights, not the previous search winner. Teacher weight applies only when a previous-round checkpoint is available (round 2)."
+}

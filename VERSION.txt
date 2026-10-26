@@ -1,0 +1,11 @@
+Project: SAR restoration + registration
+Saved: 2026-10-20
+Final loss recipe: selected_final
+  pixel: Charbonnier
+  align: true (input-to-target integer shift, radius 3)
+  gradient: 0.02236068
+  structure (LNCC): 0.70710678
+  teacher: 1.7320508 (round 2 only)
+  supervised margin: 4
+Source: SAR_WEIGHT_SEARCH_20261019, validation-selected then image-confirmation gate passed.
+Registration consumes raw restored_sensed.png by default.
